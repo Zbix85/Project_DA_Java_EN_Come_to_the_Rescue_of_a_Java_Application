@@ -1,4 +1,4 @@
-package src.com.hemebiotech.analytics;
+package com.hemebiotech.analytics;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
